@@ -1,0 +1,60 @@
+body{
+    /* background-color: 	#F2F0EB; */
+    background-color: #F6EEE5;
+}
+
+p{
+    font-size:18px;
+}
+
+h2{
+    font-family: "Proza Libre", sans-serif;
+    margin: 0;
+    margin-bottom: var(--spacing-2);
+}
+
+
+.about-me{
+    width:70%;
+    display:none;
+}
+
+.professional-projects{
+    width:70%;
+    display:none;
+}
+
+.side-projects{
+    width:70%;
+    display:none;
+}
+
+
+
+.cv{
+    width:70%;
+    display:none;
+}
+
+iframe.cv{
+    width:100%;
+    display:none;
+}
+
+
+
+.contact{
+    width:70%;
+    display:none;
+}
+
+#Heidegger{
+    width: 400px;
+    height: 600px;
+
+}
+
+img.side-projects{
+    width:600px;
+    height:400px;
+}
